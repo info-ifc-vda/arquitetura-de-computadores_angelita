@@ -58,9 +58,9 @@ Projeto - Teste das Instruções e Comportamento com Múltiplas Instruções
 ### Assembly
 
 #### Vídeo aulas
-<!--    - Programação em Assembly MIPS - Aula 1 - Instalação da IDE MARs e Programa Olá, mundo! (Hello World) URL
-    - Programação em Assembly MIPS - Aula 3 - Impressão de Inteiros (int) URL
-    - Programação em Assembly MIPS - Aula 4 - Soma de Inteiros (add e addi) - IDE MARs URL
--->
+- [Programação em Assembly MIPS - Aula 1](https://youtu.be/XtznbGfyd1o) - Instalação da IDE MARs e Programa Olá, mundo! (Hello World) 
+- [Programação em Assembly MIPS](https://youtu.be/cfHK3xv4tYc?si=EaAS0Wjco6jrdGin) - Impressão de Inteiros (int) URL
+- [Programação em Assembly MIPS](https://youtu.be/h5tas4VkkDM?si=9DdZ1BB9ZBWf8bmK) - Soma de Inteiros (add e addi) - IDE MARs URL
+
 ##### Atividade Prática
 - [Prática 01 - Introdução ao MARS Arquivo](labs/LAB01-MARS.md)
