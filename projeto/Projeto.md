@@ -4,6 +4,7 @@ Arquivos com a descrição do projeto
 - [Descrição do projeto 1](projeto/Trabalho%201%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
 - [Arquitetura do Lobo-Guará](projeto/Trabalho%201%20-%20Arquitetura.pdf)
 
+- **Data de entrega: 14/05/2024**
 
 Para facilitar o desenvolvimento do seu projeto, realize as seguintes subtarefas
 
