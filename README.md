@@ -11,7 +11,7 @@
 - [Arquitetura do Guará Focinho Longo](projeto/Trabalho%202%20-%20Guara%20Focinho%20Longo.pdf)
 - [Diagramas](projeto/Trabalho%202%20-%20Diagramas.pdf)
   
-  
+
 ### MIPS Monociclo
 
 
@@ -63,4 +63,4 @@ Projeto - Teste das Instruções e Comportamento com Múltiplas Instruções
     - Programação em Assembly MIPS - Aula 4 - Soma de Inteiros (add e addi) - IDE MARs URL
 -->
 ##### Atividade Prática
-    [Prática 01 - Introdução ao MARS Arquivo](labs/LAB01-MARS.md)
+- [Prática 01 - Introdução ao MARS Arquivo](labs/LAB01-MARS.md)
