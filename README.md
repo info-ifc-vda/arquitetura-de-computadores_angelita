@@ -1,7 +1,11 @@
 # Arquitetura de Computadores
 
 - Descrição do [Projeto](projeto/Projeto.md/)
+- [Cronograma de aulas](cronograma.md)
 
+## Simuladores
+- [Logisim-evolution](https://www.cs.cornell.edu/courses/cs3410/2018sp/logisim/logisim-evolution.jar)
+- MARS Assembly
   
 
 ### MIPS Monociclo
