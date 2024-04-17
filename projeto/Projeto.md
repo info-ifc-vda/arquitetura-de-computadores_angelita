@@ -51,25 +51,7 @@ Para facilitar o desenvolvimento do seu projeto, realize as seguintes subtarefas
  5. Otimização e Ajustes:
     - Faça os ajustes necessários para otimizar o desempenho da ULA dentro do contexto da arquitetura "Lobo-Guará", incluindo a eficiência e a velocidade das operações.
   
-#### Subtarefa 3: Design e Implementação da Unidade Lógico-Aritmética (ULA)
-
-**Objetivo:** Projetar e implementar a Unidade Lógico-Aritmética (ULA) para a arquitetura "Lobo-Guará", que suportará todas as operações aritméticas e lógicas necessárias.
-
-**Instruções:**
-
-1. Identificação das Operações Suportadas:
-- [ ] Identifique todas as operações que a ULA deve suportar, conforme definido pelo conjunto de instruções da arquitetura "Lobo-Guará", incluindo adição, subtração, operações lógicas como AND, OR, NOT, além de shifts à esquerda e à direita.
-2. Projeto do Esquema Inicial da ULA:
-- [ ] Desenhe um esquema inicial da ULA, detalhando como ela processará as operações aritméticas e lógicas. 
-- [ ] Determine os sinais de controle necessários para cada operação e como eles serão gerados pela Unidade de Controle.
-3. Implementação no Logisim Evolution:
-- [ ] Implemente o esquema da ULA no Logisim Evolution, garantindo que a ULA seja capaz de realizar todas as operações especificadas com precisão.
-4. Testes de Funcionalidade:
-- [ ] Realize testes para verificar cada operação suportada pela ULA, garantindo que os resultados sejam precisos e consistentes.
-5. Otimização e Ajustes:
-- Faça os ajustes necessários para otimizar o desempenho da ULA dentro do contexto da arquitetura "Lobo-Guará", incluindo a eficiência e a velocidade das operações.
-
-#### Subtarefa 4: Integração Completa e Testes da Arquitetura "Lobo-Guará"
+#### Subtarefa 3: Integração Completa e Testes da Arquitetura "Lobo-Guará"
 
 **Objetivo:** Integrar todos os componentes implementados anteriormente em uma única arquitetura funcional e realizar testes para garantir que todas as instruções são executadas corretamente.
 
@@ -95,7 +77,7 @@ Para facilitar o desenvolvimento do seu projeto, realize as seguintes subtarefas
    - Prepare uma demonstração prática do projeto no Logisim Evolution para mostrar durante a apresentação oral.
    - Planeje demonstrar o funcionamento da arquitetura com exemplos práticos de execução de instruções.
 
-#### Subtarefa 5: Testes e Ajustes Finais da Arquitetura "Lobo-Guará"
+#### Subtarefa 4: Testes e Ajustes Finais da Arquitetura "Lobo-Guará"
 
 **Objetivo:** Realizar uma série de testes detalhados para verificar a funcionalidade completa da arquitetura "Lobo-Guará" e fazer os ajustes finais necessários para garantir que a arquitetura funcione de maneira eficiente e correta.
 
