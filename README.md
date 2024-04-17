@@ -1,15 +1,7 @@
 # Arquitetura de Computadores
 
-### Projeto
-**Projeto 01**
-- [Descrição do projeto 1](projeto/Trabalho%201%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
-- [Arquitetura do Lobo-Guará](projeto/Trabalho%201%20-%20Arquitetura.pdf)
+- Descrição do [Projeto](projeto/Projeto.md/)
 
-**Projeto2**
-- [Descrição do projeto 2](projeto/Trabalho%202%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
-- [Arquitetura do Guará em Matilha](projeto/Trabalho%202%20-%20Guara%20em%20matilha1.pdf)
-- [Arquitetura do Guará Focinho Longo](projeto/Trabalho%202%20-%20Guara%20Focinho%20Longo.pdf)
-- [Diagramas](projeto/Trabalho%202%20-%20Diagramas.pdf)
   
 
 ### MIPS Monociclo
