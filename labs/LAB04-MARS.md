@@ -88,10 +88,7 @@ main:
     syscall
 ```
 
-#### Desafio
-Para desafiar os estudantes com uma atividade prática em assembly MIPS que combine conceitos de matemática e programação, podemos propor a implementação de uma equação mais complexa que envolva múltiplas operações aritméticas. Vamos escolher uma equação que requeira a utilização de parênteses, priorizando operações, e talvez até funções matemáticas básicas que eles precisem implementar do zero.
-
-### Equação Proposta:
+### Desafio:
 Implemente a seguinte equação:
 
 $y = (a + b) * (c - d) / e + f^2$
