@@ -8,10 +8,8 @@
 - MARS Assembly
   
 
-### MIPS Monociclo
-
-
 <!--
+### MIPS Monociclo
 Green Card MIPS Arquivo
 Vídeo aula
 Arquitetura de Computadores - Introdução a arquitetura MIPS Página
@@ -51,16 +49,16 @@ Projeto - Implementação da ULA no Logisim Evolution Tarefa
 Projeto - Teste das Instruções e Comportamento com Múltiplas Instruções
 -->
 
-### Assembly
+## Assembly
 - [Laboratorio 01](labs/LAB01-MARS.md)
 - [Laboratorio 02](labs/LAB03-MARS.md)
 - [Laboratorio 03](labs/LAB04-MARS.md)
 
 
-#### Vídeo aulas
+## Vídeo aulas
 - [Programação em Assembly MIPS - Aula 1](https://youtu.be/XtznbGfyd1o) - Instalação da IDE MARs e Programa Olá, mundo! (Hello World) 
 - [Programação em Assembly MIPS](https://youtu.be/cfHK3xv4tYc?si=EaAS0Wjco6jrdGin) - Impressão de Inteiros (int) URL
 - [Programação em Assembly MIPS](https://youtu.be/h5tas4VkkDM?si=9DdZ1BB9ZBWf8bmK) - Soma de Inteiros (add e addi) - IDE MARs URL
 
-##### Atividade Prática
+## MIPS - Atividade Prática
 - [Prática 01 - Introdução ao MARS Arquivo](labs/LAB01-MARS.md)
