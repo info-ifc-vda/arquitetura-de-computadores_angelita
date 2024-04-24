@@ -1,8 +1,8 @@
 ## Projeto 
 ### Projeto 01
 Arquivos com a descrição do projeto
-- [Descrição do projeto 1](projeto/Trabalho%201%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
-- [Arquitetura do Lobo-Guará](projeto/Trabalho%201%20-%20Arquitetura.pdf)
+- [Descrição do projeto 1](Trabalho%201%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
+- [Arquitetura do Lobo-Guará](Trabalho%201%20-%20Arquitetura.pdf)
 
 - **Data de entrega: 15/05/2024**
 

@@ -52,6 +52,10 @@ Projeto - Teste das Instruções e Comportamento com Múltiplas Instruções
 -->
 
 ### Assembly
+- [Laboratorio 01](labs/LAB01-MARS.md)
+- [Laboratorio 02](labs/LAB03-MARS.md)
+- [Laboratorio 03](labs/LAB04-MARS.md)
+
 
 #### Vídeo aulas
 - [Programação em Assembly MIPS - Aula 1](https://youtu.be/XtznbGfyd1o) - Instalação da IDE MARs e Programa Olá, mundo! (Hello World) 
