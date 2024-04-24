@@ -134,7 +134,7 @@ Para facilitar o desenvolvimento do seu projeto, realize as seguintes subtarefas
    - [ ] Prepare-se para discutir o design, os desafios enfrentados durante a implementação, e as soluções adotadas para superar esses desafios.
 
 ### Projeto2
-- [Descrição do projeto 2](projeto/Trabalho%202%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
-- [Arquitetura do Guará em Matilha](projeto/Trabalho%202%20-%20Guara%20em%20matilha1.pdf)
-- [Arquitetura do Guará Focinho Longo](projeto/Trabalho%202%20-%20Guara%20Focinho%20Longo.pdf)
-- [Diagramas](projeto/Trabalho%202%20-%20Diagramas.pdf)
+- [Descrição do projeto 2](Trabalho%202%20-%20CCC0714%20Arquitetura%20e%20Organização%20-%202024-1.pdf)
+- [Arquitetura do Guará em Matilha](Trabalho%202%20-%20Guara%20em%20matilha1.pdf)
+- [Arquitetura do Guará Focinho Longo](Trabalho%202%20-%20Guara%20Focinho%20Longo.pdf)
+- [Diagramas](Trabalho%202%20-%20Diagramas.pdf)
