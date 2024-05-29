@@ -21,11 +21,16 @@
 | 08/05/2024 | [Atividade: Projeto 1 - (Subtarefa 4) Testes e Ajustes Finais da Arquitetura "Lobo-Guará"]((projeto/Projeto.md))         |      |
 | 09/05/2024 | Pipeline: dependências estruturais                                                                 |        |
 | 14/05/2024 | [Atividade: Projeto Prático 1 - Tarefa de Ponto Extra: Implementação do Pipeline na Arquitetura "Lobo-Guará"]((projeto/Projeto.md)) |       |
-| 15/05/2024 | Pipeline: dependências de                   |
-| 16/05/2024 | Avaliação Teórica    |
-| 21/05/2024 | Processadores Superescalares.                                                                     | <!--Animações -->               |
-| 23/05/2024 | Aritmética Binária                                                                                | <!-- Calculadora Binária Online --> |
-| 04/06/2024 | Arquiteturas VLIW, Taxonomia de Flynn e Arquiteturas Paralelas                                     |       |
+| 15/05/2024 | [Atividade: Projeto Prático 1 ]((projeto/Projeto.md))             |
+| 16/05/2024 | Pipeline: Dependências de Controle    |
+| 21/05/2024 | [Atividade: Projeto Prático 1 ]((projeto/Projeto.md))                                                                       |              |
+| 22/05/2024 | [Atividade: Projeto Prático 1 ]((projeto/Projeto.md))                                                                       | <!--Animações -->               |
+| 23/05/2024 | Avaliação                                                                               | <!-- Calculadora Binária Online --> |
+| 28/05/2024 |Excessões Precisas e  [Pipelines Superescalares](aulas/arquiteturas_superescalares.md)
+| 29/05/2024 |Excessões Precisas e  [Pipelines Superescalares](aulas/arquiteturas_superescalares.md)                                     | [Vídeo Excessões Precisas](https://youtu.be/4emJbTEYIUk?si=R1SS9kJ28Ka1p4dz)   e [Vídeo Pipelines Superescalares](https://youtu.be/ZfHEwksmp7k?si=q6Ikh1uC3gSSB1Pe)    |
+| 04/06/2024 | [Arquiteturas VLIW](aulas/processadores_vliw.md)                                  |  [Vídeo: Arquiteturas VLIW](https://youtu.be/mf3QRjZMsG4?si=hQy7KJRq0ra36VFp)     |
+| 05/06/2024 | Taxonomia de Flynn e Arquiteturas Paralelas                                     | [Vídeo: Taxonomia de Flynn e Arquiteturas Paralelas](https://youtu.be/cEX186vzRe8?si=umlbBknKIk16trC4)      |
+ 06/06/2024 | Taxonomia de Flynn e Arquiteturas Paralelas                                     |       |
 | 12/06/2024 | Memórias Cache e Virtual                                                                          |      |
 | 19/06/2024 | Memória virtual e DRAM e SRAM                                                                     |         |
 | 26/06/2024 | Interconexões, barramentos e E/S                                                                  |          |
