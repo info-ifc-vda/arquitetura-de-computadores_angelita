@@ -59,12 +59,6 @@ Os processadores superescalares levam isso um passo adiante, permitindo que múl
   - **Pipeline:** Menos necessidade de gerenciar dependências complexas.
   - **Superescalar:** Necessita de técnicas avançadas para gerenciar dependências de dados e controle.
 
-### Conclusão
-
-Os processadores superescalares representam um avanço significativo em relação aos processadores pipelined, permitindo uma execução muito mais rápida e eficiente das instruções. Eles são capazes de explorar o paralelismo em um nível mais alto, aumentando a taxa de execução de instruções e, consequentemente, o desempenho geral do sistema.
-
-Se você tiver alguma dúvida ou quiser aprofundar mais algum ponto específico, fique à vontade para perguntar!
-
 ---
 ## Leitura
 - [Artigo: Arquiteturas Superescalares](../apoio/artigo-superescalar.pdf)
