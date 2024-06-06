@@ -77,11 +77,7 @@ A arquitetura VLIW se baseia na ideia de que o compilador, e não o hardware, é
   - **VLIW:** Menos flexível, dependente de um bom compilador.
   - **Superescalar:** Mais flexível, capaz de se adaptar dinamicamente às dependências.
 
-### Conclusão
 
-Os processadores VLIW representam uma abordagem interessante para explorar o paralelismo no nível de instrução, transferindo a complexidade da lógica de controle para o compilador. Embora tenham suas limitações, especialmente em termos de dependência de compiladores eficientes, eles podem oferecer benefícios significativos em termos de eficiência de hardware e previsibilidade de execução.
-
-Se precisar de mais detalhes ou tiver alguma dúvida específica sobre VLIW, sinta-se à vontade para perguntar!
 
 ---
 ## Leitura
