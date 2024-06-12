@@ -31,7 +31,7 @@
 | 04/06/2024 | [Arquiteturas VLIW](aulas/processadores_vliw.md)                                  |  [Vídeo: Arquiteturas VLIW](https://youtu.be/mf3QRjZMsG4?si=hQy7KJRq0ra36VFp)     |
 | 05/06/2024 | Taxonomia de Flynn e Arquiteturas Paralelas                                     | [Vídeo: Taxonomia de Flynn e Arquiteturas Paralelas](https://youtu.be/cEX186vzRe8?si=umlbBknKIk16trC4)      |
  06/06/2024 | Taxonomia de Flynn e Arquiteturas Paralelas                                     |       |
-| 12/06/2024 | Memórias Cache e Virtual                                                                          |      |
-| 19/06/2024 | Memória virtual e DRAM e SRAM                                                                     |         |
+| 12/06/2024 | Memórias Cache e Virtual                                                                          |  [Memórias](aulas/memorias.md)    |
+| 19/06/2024 | Memória virtual e DRAM e SRAM                                                                     | [Memórias](aulas/memorias.md)        |
 | 26/06/2024 | Interconexões, barramentos e E/S                                                                  |          |
 | 04/07/2024 | Avaliação teórica 2                                                                               |      |
