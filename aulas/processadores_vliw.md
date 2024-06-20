@@ -81,7 +81,7 @@ A arquitetura VLIW se baseia na ideia de que o compilador, e não o hardware, é
 
 ---
 ## Leitura
-- [A Arquitetura VLIW: Conceitos e Perspectivas](artigo-arquitetura-vliw.pdf)
+- [A Arquitetura VLIW: Conceitos e Perspectivas](../apoio/artigo-arquitetura-vliw.pdf)
 
 ## Atividades
 
